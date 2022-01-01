@@ -7,7 +7,7 @@
 - 📫 How to reach me: unmoyb@gmail.com 
 - ⚡ Fun fact: I want to travel around the world 
 
-
+## Connect with me
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="22">](https://github.com/Unmoy)  [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="22" >](https://www.linkedin.com/in/unmoy/)  [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width="22">](https://www.instagram.com/Unmoy/)  [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="22" >](https://unmoy-portfolio.web.app/)  
 <br/>
 
