@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I want to travel around the world 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="10" height="10">](https://github.com/Unmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40" height="40">](https://www.linkedin.com/in/unmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width="40" height="40">](https://www.instagram.com/Unmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="40" height="40">](https://unmoy-portfolio.web.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="10" height="10" color='red'>](https://github.com/Unmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="40" height="40">](https://www.linkedin.com/in/unmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width="40" height="40">](https://www.instagram.com/Unmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' width="40" height="40">](https://unmoy-portfolio.web.app/)  
 
 
 
